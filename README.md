@@ -2,6 +2,10 @@
 
 **https://bdcodebase.github.io/JLdeployments/lab/index.html**
 
+or shorter: **https://t1p.de/svdemos**
+
+![QR Code](QR_t1p-de-svdemos.png)
+
 ## Information about JupyterLite:
 See **https://jupyterlite.github.io/demo**
 
