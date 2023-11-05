@@ -11,6 +11,7 @@ oder kurz: **https://t1p.de/svdemos**
 - **Corona_MA**: Moving Average-Filter am Beispiel der Coronafallzahlen
 - **CosinusMultiplication**: Verständnis FT, Multiplikation von Cosinussignalen unterschiedlicher Frequenz und Phase, Fläche des Ergebnisses
 - **DFT**: Zeichnet ein Signal mit einstellbarer Signalfrequenz und Abtastrate und berechnet per DFT das Spektrum. Das Zeitfenster für die DFT kann verändert werden.
+- **DFT_sincosComp** zeigt die Sinus- und Cosinusterme, mit denen in der DFT die zu transformierende Signalfolge multipliziert wird.
 - **Faltung**: Darstellung der kontinuierlichen Faltung mit einfachen Musterfunktionen
 - **Filter_ECG**: EKG-Signal in Zeit- und Freq.-Berich, Anwendung von Moving-Average- und Windowed Sinc-Filter (HP, TP) darauf
 - **FilterBW_ECG**: EKG-Signal in Zeit- und Freq.-Berich, Anwendung von Butterworth-Filter (HP, TP) darauf
