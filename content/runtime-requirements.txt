@@ -1,0 +1,3 @@
+https://files.pythonhosted.org/packages/4b/65/86775b9dcdb13655bcfa2fcc20e71726e9a00e7a5d0e63db137dec2be89c/widgetsnbextension-4.0.12-py3-none-any.whl
+ipywidgets
+ipympl
