@@ -17,6 +17,7 @@ oder kurz: **https://t1p.de/svdemos**
 - **FilterBW_ECG**: EKG-Signal in Zeit- und Freq.-Berich, Anwendung von Butterworth-Filter (HP, TP) darauf
 - **Kreukorrelation**: Darstellung der Kreuzkorrelation mit einfachen Musterfunktionen
 - **Laplace**: Zuordnung von Punkten in der Laplace-Ebene zu Zeitbereichssignalen
+- **Plot_einfach|Luxus**: Hilfsscripte, wenn mal flott was zu plotten ist
 - **Pulsox_D**: Prinzip der Pulsoximetrie, Zusammenhang zwischen Plethysmogrammen und Sättigungswert
 - **RC-Tiefpass**: Verschiedene Darstellung von Übertragungsfunktionen am Beispiel RC-Glied, Herleitung Bode-Diagramm 
 - **Sampling**: Unterabtastung bei einem EKG-Signal
