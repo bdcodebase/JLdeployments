@@ -25,6 +25,7 @@ oder kurz: **https://t1p.de/svdemos**
 - **Sin_Cos_Kompl_Schwingung**: Zusammenhang zwischen komplexen Schwingungen und Sin/Cos
 - **Spektren**: Interaktive Korrespondenztabelle für die Fouriertransformation, incl. Skalierung und Verschiebung
 - **sPlot**: Darstellung von H(s) in der Laplace-Ebene
+- **Wiedergabe_Tonsignal**: Darstellung und Audioausgabe eines Tonsignals, ggf. mit Aliasing
 - **zPlot**: Darstellung von H(z) in der z-Ebene
 
 ---
