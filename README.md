@@ -14,10 +14,12 @@ oder kurz: **https://t1p.de/svdemos**
 - **DFT**: Zeichnet ein Signal mit einstellbarer Signalfrequenz und Abtastrate und berechnet per DFT das Spektrum. Das Zeitfenster für die DFT kann verändert werden.
 - **DFT_sincosComp** zeigt die Sinus- und Cosinusterme, mit denen in der DFT die zu transformierende Signalfolge multipliziert wird.
 - **Faltung**: Darstellung der kontinuierlichen Faltung mit einfachen Musterfunktionen
+- **Fensterfunktionen**: Wirkung von Fensterfunktionen in der DFT, Vergleich verschiedener Fensterfunktionen
 - **Filter_ECG**: EKG-Signal in Zeit- und Freq.-Berich, Anwendung von Moving-Average- und Windowed Sinc-Filter (HP, TP) darauf
 - **FilterBW_ECG**: EKG-Signal in Zeit- und Freq.-Berich, Anwendung von Butterworth-Filter (HP, TP) darauf
 - **Kreukorrelation**: Darstellung der Kreuzkorrelation mit einfachen Musterfunktionen
 - **Laplace**: Zuordnung von Punkten in der Laplace-Ebene zu Zeitbereichssignalen
+- **Leckage**: Entstehung des Leckageeffekts
 - **Plot_einfach|Luxus**: Hilfsscripte, wenn mal flott was zu plotten ist
 - **Pulsox_D**: Prinzip der Pulsoximetrie, Zusammenhang zwischen Plethysmogrammen und Sättigungswert
 - **RC-Tiefpass**: Verschiedene Darstellung von Übertragungsfunktionen am Beispiel RC-Glied, Herleitung Bode-Diagramm 
