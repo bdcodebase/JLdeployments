@@ -28,7 +28,7 @@ oder kurz: **https://t1p.de/svdemos**
 - **Spektren**: Interaktive Korrespondenztabelle für die Fouriertransformation, incl. Skalierung und Verschiebung
 - **sPlot**: Darstellung von H(s) in der Laplace-Ebene
 - **Wiedergabe_Tonsignal**: Darstellung und Audioausgabe eines Tonsignals, ggf. mit Aliasing
-- **zPlot**: Darstellung von H(z) in der z-Ebene
+- **zPlot**: Darstellung von H(z) in der z-Ebene 
 
 ---
 
