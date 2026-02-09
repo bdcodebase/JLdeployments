@@ -1,3 +1,2 @@
-https://files.pythonhosted.org/packages/ca/51/5447876806d1088a0f8f71e16542bf350918128d0a69437df26047c8e46f/widgetsnbextension-4.0.14-py3-none-any.whl
-ipywidgets
-ipympl
+ipywidgets==8.1.5
+ipympl==0.9.4
