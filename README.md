@@ -23,6 +23,7 @@ oder kurz: **https://t1p.de/svdemos**
 - **Plot_einfach|Luxus**: Hilfsscripte, wenn mal flott was zu plotten ist
 - **Pulsox_D**: Prinzip der Pulsoximetrie, Zusammenhang zwischen Plethysmogrammen und Sättigungswert
 - **RC-Tiefpass**: Verschiedene Darstellung von Übertragungsfunktionen am Beispiel RC-Glied, Herleitung Bode-Diagramm 
+- **RC-Hochpass**: Dasselbe für das RC-Glied als Hochpass
 - **Sampling**: Unterabtastung bei einem EKG-Signal
 - **Sin_Cos_Kompl_Schwingung**: Zusammenhang zwischen komplexen Schwingungen und Sin/Cos
 - **Spektren**: Interaktive Korrespondenztabelle für die Fouriertransformation, incl. Skalierung und Verschiebung
