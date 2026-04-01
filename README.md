@@ -20,6 +20,7 @@ oder kurz: **https://t1p.de/svdemos**
 - **Kreukorrelation**: Darstellung der Kreuzkorrelation mit einfachen Musterfunktionen
 - **Laplace**: Zuordnung von Punkten in der Laplace-Ebene zu Zeitbereichssignalen
 - **Leckage**: Entstehung des Leckageeffekts
+- **Lineare_Phase**: Auswirkungen von Verschiebungen im Zeitbereich auf den Phasengang
 - **Plot_einfach|Luxus**: Hilfsscripte, wenn mal flott was zu plotten ist
 - **Pulsox_D**: Prinzip der Pulsoximetrie, Zusammenhang zwischen Plethysmogrammen und Sättigungswert
 - **RC-Tiefpass**: Verschiedene Darstellung von Übertragungsfunktionen am Beispiel RC-Glied, Herleitung Bode-Diagramm 
